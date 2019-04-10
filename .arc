@@ -1,13 +1,9 @@
-#
-# Warning! Do Not Edit
-# --------------------
-# This is a generated file and will be overwritten
-#
 @app
-begin-app
+pizza-hiq
 
 @http
 get /
+get /testing
 
 @tables
 data
